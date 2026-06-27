@@ -1,0 +1,1 @@
+// I won't upload file any more on this repository, i will upload .cpp files of my malware on the "Source-Codes-of-my-malwares" repository.
