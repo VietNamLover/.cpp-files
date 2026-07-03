@@ -1,5 +1,5 @@
 ﻿// gsv.exe by VietNamLover.
-// Don't run this détructive malwảe on yoủ real PC!
+// Don't run this destructive malware on your real PC!
 
 #include <windows.h>
 #include <cmath>
