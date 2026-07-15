@@ -488,7 +488,7 @@ int main()
 	}
 	else
 	{
-		if (MessageBoxW(NULL, L"IT WILL DESTROY YOUR PC! DO YOU REALLY WANT OT RUN THIS MALWARE?!", L"wrt1.5.exe", MB_YESNO | MB_ICONEXCLAMATION) == IDNO)
+		if (MessageBoxW(NULL, L"IT WILL DESTROY YOUR PC! DO YOU REALLY WANT TO RUN THIS MALWARE?!", L"wrt1.5.exe", MB_YESNO | MB_ICONEXCLAMATION) == IDNO) //I edited this file on github (changed from "OT" to "TO" because i wrote it wrong).
 		{
 			ExitProcess(0);
 		}
